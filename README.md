@@ -1,60 +1,68 @@
 # Hi, I’m Ryan Pickett 👋
-**Software Developer | Junior Game Developer** *Building core gameplay systems, modular applications, and optimized software solutions.*
 
-I am a detail-oriented developer with a strong foundation in **object-oriented programming (OOP)**, **data structures**, and **low-level systems**. My background bridges the gap between technical structural design and modern software engineering.
+**Software Developer | C# Developer | Game Development**
+
+I build modular software systems with a focus on gameplay programming, real-time applications, and maintainable architecture.
+
+My experience includes C#, C++, Java, SQL, and object-oriented software design, with hands-on work in game engines, collision systems, rendering pipelines, and legacy code modernization.
 
 ---
 
-### 🚀 Technical Expertise
+## 🚀 Technical Skills
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | C#, C++, C, Java, SQL |
-| **Game Dev** | 2D Programming, Physics, Collision Detection, Game Loop Architecture, Sprite Rendering |
-| **Core CS** | Algorithms, Memory Management (Stack vs Heap), Pointers, Concurrency, Networking |
-| **Tools** | Unity, XNA, Visual Studio, AutoCAD, SQL Server |
-| **Design** | Component-Based Design, Modular Architecture, UX Design (In Progress) |
+| Languages | C#, C++, C, Java, SQL |
+| Game Development | Game loops, physics systems, collision detection, sprite rendering, animation systems |
+| Software Design | Object-Oriented Programming, component-based architecture, modular systems |
+| Tools | Visual Studio, Git, Unity, XNA, MonoGame, SQL Server |
+| Data & Markup | XML, data-driven design |
 
 ---
 
-### 🛠️ Featured Project: 2D Platformer Recreation
-**Role:** Developer (4-Member Team)  
-A fully playable recreation of **Super Mario Bros. World 1-1** built from scratch.
-* **Systems Built:** Real-time game loop, collision detection, physics behavior, and input handling.
-* **Technical Focus:** Applied OOP and modular code structures for performance and accuracy.
-* **Tech Stack:** C++, C#, XNA, XML, and Sprite rendering systems.
+## 🎮 Featured Project
+
+### Super Mario Bros. World 1-1 Recreation
+
+**Role:** Developer — 4-person team
+
+A recreation of the first level of Super Mario Bros. developed as a software engineering project using C# and Microsoft XNA.
+
+### Contributions:
+- Developed gameplay systems including player behavior, input handling, collision logic, and interactive objects.
+- Contributed across 67 TFVC changesets affecting hundreds of source files and game assets.
+- Implemented and expanded systems for player characters, sprites, enemies, items, HUD elements, and game states.
+- Helped maintain code quality through peer review documentation.
+
+**Technologies:**
+C#, C++, XNA, XML, Visual Studio, sprite/content pipelines
 
 ---
 
-### 🎓 Education & Certifications
-* **Computer Science & Engineering Coursework** | The Ohio State University
-    * *Focus:* Software Engineering, Data Structures, and Low-Level Programming.
-* **Google UX Design Certificate** | *Expected June 2026*
+## 🛠️ Current Focus
+
+- Building modular game architectures with C# and MonoGame
+- Exploring ECS-based design patterns
+- Improving gameplay feel through physics, collision, and systems design
 
 ---
 
-### 📈 What I’m Working On
-* 🔭 **Focusing on:** System optimization and real-time gameplay feel.
-* 🌱 **Learning:** Advanced UX principles to bridge the gap between functionality and player immersion.
-* ⚡ **Fun Fact:** My background includes large-scale structural component design and IT support, giving me a unique perspective on how software interacts with hardware and physical systems.
+## 🎓 Education
+
+**The Ohio State University**
+Computer Science & Engineering Coursework
+
+Focus:
+- Software Engineering
+- Data Structures
+- Low-level Programming
+
+**Google UX Design Certificate**
+Expected June 2026
 
 ---
 
-### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/rcpickett](https://linkedin.com/in/rcpickett)
-* **Email:** rcpickett@gmail.com
-* **Location:** Howe, TX
-<!--
-**rcpickett/rcpickett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LinkedIn: linkedin.com/in/rcpickett
+Email: rcpickett@gmail.com
