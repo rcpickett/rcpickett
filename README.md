@@ -58,7 +58,7 @@ Focus:
 - Low-level Programming
 
 **Google UX Design Certificate**
-Expected June 2026
+Expected July 2026
 
 ---
 
