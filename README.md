@@ -6,6 +6,8 @@ I build modular software systems with a focus on gameplay programming, real-time
 
 My experience includes C#, C++, Java, SQL, and object-oriented software design, with hands-on work in game engines, collision systems, rendering pipelines, and legacy code modernization.
 
+Currently rebuilding Super Mario Bros. using a modern ECS architecture in MonoGame while documenting the engineering process.
+
 ---
 
 ## 🚀 Technical Skills
