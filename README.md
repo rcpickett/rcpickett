@@ -10,7 +10,7 @@ Currently, I am rebuilding **Super Mario Bros.** using **MonoGame** and a modern
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 
 | Category                  | Skills                                                                                                      |
 | :------------------------ | :---------------------------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ Currently, I am rebuilding **Super Mario Bros.** using **MonoGame** and a modern
 
 ---
 
-## 🎮 Featured Project
+## Featured Project
 
 ### Super Mario Bros. World 1-1 Recreation
 
@@ -43,7 +43,7 @@ C#, C++, XNA, XML, Visual Studio, Git, sprite/content pipelines
 
 ---
 
-## 🛠️ Current Focus
+## Current Focus
 
 I am currently exploring modern game architecture through a MonoGame-based recreation of Super Mario Bros.
 
@@ -57,7 +57,7 @@ Areas of focus include:
 
 ---
 
-## 🎓 Education
+## Education
 
 **The Ohio State University**
 Computer Science & Engineering Coursework
@@ -74,7 +74,7 @@ Expected August 2026
 
 ---
 
-## 📫 Connect
+## Connect
 
 * LinkedIn: linkedin.com/in/rcpickett
 * GitHub: github.com/rcpickett
